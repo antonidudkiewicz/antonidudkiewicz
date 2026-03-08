@@ -1,18 +1,9 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=git+commit+-m+%22still+learning%22;while(true)+%7B+code()+%7D;%3A%2F+%3A+%2Fwq!)
-
-<br/>
-
-![Stats](https://github-readme-stats-beryl-three-68.vercel.app/api?username=antonidudkiewicz&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=tokyonight&include_all_commits=true)
-![Languages](https://github-readme-stats-beryl-three-68.vercel.app/api/top-langs/?username=antonidudkiewicz&layout=compact&hide_border=true&theme=tokyonight&count_private=true)
-
-<br/>
-
-![Streak](https://streak-stats.demolab.com?user=antonidudkiewicz&theme=tokyonight&hide_border=true)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antonidudkiewicz&theme=tokyo-night&hide_border=true&hide_title=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/aitek-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/aitek-light.svg" />
+  <img alt="Agent AItek v23.0.0 — Creative vibe coder. Temperature 0.97, extended thinking enabled. Skills: film, music, code, magic. Tools: Claude, Gemini, Cursor. Dependencies: coffee, spotify, good vibes, wifi." src="assets/aitek-light.svg" width="100%" />
+</picture>
 
 </div>
